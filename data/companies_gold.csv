@@ -1,0 +1,41 @@
+id,company_name,group_id
+1,Acme Corporation,G1
+2,ACME Corp.,G1
+3,Acme Co.,G1
+4,"Acme, Inc.",G1
+5,Acme Incorporated,G1
+6,Globex Corporation,G2
+7,Globex Corp,G2
+8,"Globex, Inc.",G2
+9,Globex Co.,G2
+10,Globex Corporatoin,G2
+11,Initech,G3
+12,"Initech, Inc.",G3
+13,Initech LLC,G3
+14,IniTech,G3
+15,Initec,G3
+16,Umbrella Corporation,G4
+17,Umbrella Corp.,G4
+18,Umbrella Co.,G4
+19,"Umbrella, Inc.",G4
+20,Umbrella Corporation LLC,G4
+21,Wayne Enterprises,G5
+22,Wayne Ent.,G5
+23,"Wayne Enterprises, Inc.",G5
+24,Wayne Enterprises LLC,G5
+25,Wayne Enterprizes,G5
+26,Stark Industries,G6
+27,Stark Ind.,G6
+28,"Stark Industries, Inc.",G6
+29,Stark Industries LLC,G6
+30,Stark Inds,G6
+31,Pied Piper,G7
+32,Pied Piper LLC,G7
+33,"Pied Piper, Inc.",G7
+34,Pied-Piper,G7
+35,PiedPiper,G7
+36,Aperture Science,G8
+37,Aperture Sci.,G8
+38,"Aperture Science, Inc.",G8
+39,Aperture Science LLC,G8
+40,Aperture Sciense,G8
